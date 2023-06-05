@@ -1,0 +1,25 @@
+@import "../../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+.pagination-container{
+    border: 1px solid green;
+
+    .top-box-container{
+        padding-top: 10px;
+padding-bottom: 5px;
+
+        border-bottom: 1px solid green;
+        .nxt-prev-icon{
+            color: green;
+        }
+    .index-box{
+        .current-index{
+        background-color: green;
+        color: white;
+        }
+        .index{
+        background-color: white;
+        color:green; 
+        }
+
+    }
+    }       
+}
